@@ -2,7 +2,7 @@
 
 <h2> 🤩 Sobre</h2>
 
-### Projeto em JavaScript, para introdução a lógica do Curso Oracle ONE / Alura
+### Projeto em JavaScript, para introdução a lógica: Curso Oracle ONE / Alura
 ### * em construção desde 2025-01-27
 
 #########
